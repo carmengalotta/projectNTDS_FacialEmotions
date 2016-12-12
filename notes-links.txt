@@ -1,0 +1,1 @@
+Face recognition i python with OpenCV in <25 lines of code : https://realpython.com/blog/python/face-recognition-with-python/
